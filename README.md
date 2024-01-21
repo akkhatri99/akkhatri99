@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akkhatri99
-- 👀 I’m interested in Web Development, Data Science, Deep Leaning, AI, ML
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m interested in Web Development
 - 📫 How to reach me: Email: khatriajay1999@gmail.com
 
 <!---
